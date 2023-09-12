@@ -1,8 +1,8 @@
-/**
+	/**
 	 * 
 	 * @author RVera
 	 *	A class that implements a shopping
-	 *	cart using an Arraybag.
+	 *	cart using Arraybag data structure.
 	 */
 public class ShoppingCart extends Item{
 	
